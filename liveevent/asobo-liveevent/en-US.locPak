@@ -1,0 +1,12 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "잭슨",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "KJAC, 미합중국",
+      "MENU.LIVE_EVENT_BRIEFING": "몇 주 동안, 새로운 시간제한 착륙 도전과제를 통해 리더보드 정상에 오르세요! <br> <br> 와이오밍의 아름다운 테톤 산맥의 밑동에 자리잡은 잭슨 홀 공항입니다. 이 외딴 비행장은 경외심을 불러 일으키는 장소로 알려져있지만, 고도가 높고 짧은 활주로를 가졌으며, 급변하는 기상조건으로 인해 조종사들의 신경이 곤두서며, 각별한 주의를 해야하는 공항입니다.",
+      "MENU.LIVE_EVENT_DESC": "현재 라이브 이벤트 - 착륙 도전과제 ",
+      "MENU.LIVE_EVENT_TITLE": "잭슨"
+    }
+  }
+}
