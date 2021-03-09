@@ -2,11 +2,11 @@
   "LocalisationPackage": {
     "Language": "en-US",
     "Strings": {
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Westray to Papa Westray",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "EGEW, United Kingdom",
-      "MENU.LIVE_EVENT_BRIEFING": "Famously known as the shortest regularly-scheduled commercial route in the world, the flight between the Orkney Islands of Westray and Papa Westray in the north of Scotland carries over 1.7 miles and takes an average of 2 minutes from takeoff to landing -- or less than half that time with ideal wind conditions. However this brief jaunt is not short on remarkable scenery, from the shallow emerald green waters that separate these once-joined land masses, to archaeological sites in the area that date back as far as 3500 B.C. <br> <br> For this iconic flight, you will be piloting a Beechcraft Bonanza G36, the perfect utility aircraft for a quick trip in the timeless Northern Isles.",
-      "MENU.LIVE_EVENT_DESC": "Iconic Flight - United Kingdom",
-      "MENU.LIVE_EVENT_TITLE": "Westray to Papa Westray"
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Chagual Airport is an airport serving the town of Chagual in the La Libertad Region of Peru. The asphalt runway is encased in a winding valley, on the banks of the Marañón River, which only allows a very difficult and complicated visual approach.",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "Chagual, Peru",
+      "MENU.LIVE_EVENT_BRIEFING": "Chagual Airport is an airport serving the town of Chagual in the La Libertad Region of Peru. The asphalt runway is encased in a winding valley, on the banks of the Marañón River, which only allows a very difficult and complicated visual approach.",
+      "MENU.LIVE_EVENT_DESC": "Current Live Event - Landing Challenge ",
+      "MENU.LIVE_EVENT_TITLE": "Chagual"
     }
   }
 }
