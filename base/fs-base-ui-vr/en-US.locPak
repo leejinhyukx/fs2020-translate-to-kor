@@ -24,7 +24,7 @@
       "MENU.OPTIONS_GRAPHICS_VR": "VR Graphics",
       "MENU.OPTIONS_GRAPHICS_VR_DESC": "Modify VR graphics options. <br> <br> Note that the default setting is optimized for VR, and gives a good balance between performance and graphics fidelity. <br> <br> Press F12 to revert to the default settings.",
       "MENU.OPTIONS_MODE_VR": "VR Mode",
-      "MENU.OPTIONS_MODE_VR_DESC": "Adjust VR mode seetings.",
+      "MENU.OPTIONS_MODE_VR_DESC": "Adjust VR mode settings.",
       "MENU.OPTIONS_TEMPORAL_UPSCALE_RESOLUTION_HINT": "Rendering resolution",
       "MENU.OPTIONS_TRAFFIC_VR": "VR TRAFFIC",
       "MENU.OPTIONS_TRAFFIC_VR_DESC": "Modify options during VR mode regarding the quantity of other vehicles both in the air and on the ground, as well as airport workers. <br> <br> Higher values may affect performance.",
